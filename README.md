@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [pinus](https://github.com/node-pinus/pinus)
+- 🔭 I’m currently working on myself.
 - 📫 How to reach me: [leowu56@gmail.com](mailto:leowu56@gmail.com)
-- 💬 Ask me about Backend/nodejs/golang
+- 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
 
