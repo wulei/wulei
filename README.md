@@ -45,5 +45,5 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-![Smallwhite's github stats](https://github-readme-stats.vercel.app/api?username=wulei&show_icons=true)
+![wulei's github stats](https://github-readme-stats.vercel.app/api?username=wulei&show_icons=true)
 
