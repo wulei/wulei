@@ -34,10 +34,6 @@ No Activity tracked this Week
 
 <!--[![wulei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leowu56)](https://github.com/anuraghazra/github-readme-stats)-->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>
