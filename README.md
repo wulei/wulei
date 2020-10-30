@@ -33,10 +33,20 @@ No Activity tracked this Week
 
 <!--[![wulei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leowu56)](https://github.com/anuraghazra/github-readme-stats)-->
 
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  5,825 Karma Points           
+🌸  Completed 0 tasks today           
+🗓  Completed 9 tasks this week           
+✅  Completed 403 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
 <details>
 <summary>📈 My GitHub Stats</summary>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wulei&show_icons=true&locale=en&layout=compact" alt="wulei" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wulei&show_icons=true&locale=en&layout=compact" alt="wulei" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wulei&show_icons=true&locale=en" alt="wulei" /></p>
 
